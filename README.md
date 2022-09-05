@@ -1,5 +1,5 @@
-## Oi, me chamo Sofia
-##Seja Bem Vindo!
+<h1> Oi, me chamo Sofia </h1>
+Seja Bem Vindo!
 
 <p> Tenho 18 anos e estou a procura de me desenvolver como pessoa e profissionalmente, sempre fui pessoa curiosa e estou sempre buscando novos aprendizados</p><i class="fa-regular fa-face-smile-beam"></i>
 
