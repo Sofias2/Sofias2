@@ -1,7 +1,7 @@
 ## Oi, me chamo Sofia
 ##Seja Bem Vindo!
 
-## Tenho 18 anos e estou a procura de me desenvolver como pessoa e profissionalmente, sempre fui pessoa curiosa e estou sempre buscando novos aprendizados <i class="fa-regular fa-face-smile-beam"></i>
+<p> Tenho 18 anos e estou a procura de me desenvolver como pessoa e profissionalmente, sempre fui pessoa curiosa e estou sempre buscando novos aprendizados</p><i class="fa-regular fa-face-smile-beam"></i>
 
 ##Estou Aprendendo:<br>
 <img width=50px; src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
